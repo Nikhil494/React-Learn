@@ -1,0 +1,22 @@
+{
+  "name": "react-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikhil494/React-Learn.git"
+  },
+  "author": "Nikhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikhil494/React-Learn/issues"
+  },
+  "homepage": "https://github.com/Nikhil494/React-Learn#readme",
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  }
+}
